@@ -1,0 +1,32 @@
+{
+	"storyName": "Stupid talentless fox",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tail",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"stupid-BITCH",
+			"tail",
+			[
+				255,
+				155,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
